@@ -22,5 +22,6 @@ How to use.
 * open teminal/bash
 * for music type command: node liri.js spotify-this-song '<song name here>'
 * for Movies type command: node liri.js movie-this '<movie name here>'
+* watch demo here: https://drive.google.com/file/d/14aZiDLxwfhlKHdSfnb4od48pjhu70BW5/view
 
 
