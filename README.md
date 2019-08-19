@@ -1,6 +1,6 @@
 # liri-node-app
 What it does.
-    LIRI will search Spotify for songs, and movies then will provied inforamtion on those topics using data from spotify and OMDB.
+* LIRI will search Spotify for songs, and movies then will provied inforamtion on those topics using data from spotify and OMDB.
 
 Why is it useful?
    * It provies useful information of moives and songs. 
@@ -20,7 +20,7 @@ Why is it useful?
 
 How to use.
 * open teminal/bash
-* for music type command: spotify-this-song
-* for Movies type command: movie-this
+* for music type command: node liri.js spotify-this-song '<song name here>'
+* for Movies type command: node liri.js movie-this '<movie name here>'
 
 
